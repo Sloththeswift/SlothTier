@@ -1,9 +1,40 @@
+.MainHeader{
+  text-align: center;
+}
 
+.SlothList{
+  border:4px solid black;
+  color: green;
+  padding: 20px;
+}
+header{
+  background-color: rgba(0, 0, 0, 0.836);
+  color: green;
+  width: 50%;
+}
 
-td, tr {
-    border: 1px solid black;
-  }
-   
-  th {
-    border: 1px solid blue;
-  }
+header a{
+  color: rgb(33, 173, 103);
+  
+  cursor: pointer;
+}
+
+:root{
+  background-image: url(/SlothTier/img/SlothPygmy.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+article{
+  background-color: rgba(0, 0, 0, 0.836);
+  color: green;
+  width: 50%;
+}
+.footer{
+  background-color: rgba(0, 0, 0, 0.836);
+  color: green;
+  width: 50%;
+  width: 50%;
+}
+
