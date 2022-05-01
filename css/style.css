@@ -41,6 +41,10 @@ header a{
   
 }
 
+ol{
+  font-size: 0.95em;
+}
+
 .MainHeader a:hover{
   color: rgb(129, 233, 184);
 }
